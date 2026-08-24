@@ -43,7 +43,6 @@ For educational use only. This is not an official Reserve Bank of India tool.
 
 ---
 
-If you want, I can rename `Untitled-1.py` to `app.py` (and update imports) instead of providing the copy. Which do you prefer?
 
 Styling and assets
 ------------------
