@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0ea5a4" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="20" fill="url(#g)" />
+  <g transform="translate(30,30)">
+    <circle cx="70" cy="50" r="40" fill="#ffffff" opacity="0.06" />
+    <text x="70" y="60" font-family="Segoe UI, Arial" font-size="48" fill="#ffffff" text-anchor="middle" font-weight="700">₹</text>
+  </g>
+  <text x="100" y="170" font-family="Segoe UI, Arial" font-size="18" fill="#ffffff" text-anchor="middle">INR Auth</text>
+</svg>
